@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\Assets",
+    "\\public\\Assets\\Fonts",
+    "\\public\\Assets\\images",
+    "\\public\\Assets\\images\\symbols",
+    "\\public\\Assets\\images\\ui",
+    "\\src",
+    "\\src\\assets"
+  ],
+  "SelectedNode": "\\package-lock.json",
+  "PreviewInSolutionExplorer": false
+}
