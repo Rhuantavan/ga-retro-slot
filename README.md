@@ -2,6 +2,10 @@
 
 Simple slot machine prototype built with TypeScript and Pixi.js.
 
+## Live Demo
+
+https://rhuantavan.github.io/ga-retro-slot/
+
 ## Setup
 
 ```bash
@@ -33,4 +37,4 @@ Add the following URL parameter to force a deterministic win (7's across the mid
 
 Example:
 
-    http://localhost:5173/?forceResult=true
+https://rhuantavan.github.io/ga-retro-slot/?forceResult=true
