@@ -1,0 +1,16 @@
+@font-face {
+	font-family: "Pixelify";
+	src: url("/assets/fonts/PixelifySans-Bold.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+}
+
+html, body {
+	margin: 0;
+	height: 100%;
+	background: #000;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+}
